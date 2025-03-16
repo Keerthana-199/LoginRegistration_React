@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\loginregisterauthapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\loginregisterauthapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\models\\getusetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\models\\getusetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\repositories\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\repositories\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\data\\applicationdbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\data\\applicationdbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|c:\\users\\keert\\onedrive\\documents\\projects\\loginregisterauthapi\\loginregisterauthapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A116D989-80BE-4566-BD31-55C132FAAAFA}|LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj|solutionrelative:loginregisterauthapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Models\\Users.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:09:06.742Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\appsettings.json",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T22:14:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Program.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:11:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUsetDto.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Models\\GetUsetDto.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Models\\GetUsetDto.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Models\\GetUsetDto.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Models\\GetUsetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:08:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Helpers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Helpers\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:01:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Data\\ApplicationDbContextClass.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Data\\ApplicationDbContextClass.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Data\\ApplicationDbContextClass.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Data\\ApplicationDbContextClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:55:27.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRegisterAuthAPI",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\LoginRegisterAuthAPI.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T21:54:03.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Repositories\\UserRespository.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Repositories\\UserRespository.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Repositories\\UserRespository.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Repositories\\UserRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:41:35.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:41:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "LoginRegisterAuthAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\Documents\\Projects\\LoginRegisterAuthAPI\\LoginRegisterAuthAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "LoginRegisterAuthAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:36:23.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

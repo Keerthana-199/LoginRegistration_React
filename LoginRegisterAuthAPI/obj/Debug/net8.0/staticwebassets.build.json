@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9qUyqWWbMh8dhrAgZJLLHta5l8J2kAJMGHmdHEEEV1w=",
+  "Source": "LoginRegisterAuthAPI",
+  "BasePath": "_content/LoginRegisterAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
